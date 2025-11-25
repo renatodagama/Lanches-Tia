@@ -1,7 +1,7 @@
 package com.javaspringatt.atividadebancodedados.controller;
 
 import java.util.List;
-import java.util.Optional;
+//import java.util.Optional;
 
 import com.javaspringatt.atividadebancodedados.models.AttBancoModel;
 import com.javaspringatt.atividadebancodedados.services.AttBancoService;
@@ -15,7 +15,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
+//import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.PutMapping;
 
 
